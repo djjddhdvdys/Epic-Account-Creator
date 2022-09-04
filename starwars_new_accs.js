@@ -127,5 +127,6 @@ function purchase() {
             await register();
         }
 
-    })();
+    })();starwars_accounts.txt
+    
 }
